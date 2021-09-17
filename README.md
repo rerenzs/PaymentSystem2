@@ -32,7 +32,7 @@ API with JWT Authentication
 Add Header for authorization.
 
 Key: Authorization
-Value: Bearer <Generated Token>
+Value: Bearer {Generated Token}
 	
 //get all payments from the authenticated account
 GET https://localhost:44341/api/payments
